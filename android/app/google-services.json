@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "150852682942",
+    "firebase_url": "https://project-sps-dbe99-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "project-sps-dbe99",
+    "storage_bucket": "project-sps-dbe99.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:150852682942:android:7b4df1f585e9b746518aef",
+        "android_client_info": {
+          "package_name": "com.project.sps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "150852682942-psk48ibklpsjj8pso8bepk0oe9aamdl9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9WrB8YJMDQqH2Tms_PkY8RCol6ekgImg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "150852682942-psk48ibklpsjj8pso8bepk0oe9aamdl9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
